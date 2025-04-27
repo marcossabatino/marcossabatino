@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @marcossabatino
-- 👀 I’m interested in DevOps, DevSecOps and SRE.
-- 🌱 I’m currently learning to improve resilience of environments
-
+- 👋 Hi, I'm @marcossabatino
+- 👀 I'm interested in DevOps, DevSecOps and SRE.
+- 🌱 I'm passionate about Linux, open source, observability and reliability engineering.
 
 <!---
 marcossabatino/marcossabatino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
