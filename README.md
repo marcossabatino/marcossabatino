@@ -31,20 +31,26 @@ SRE & Platform Engineering Leader focused on reliability, observability, and sca
 
 > Small, practical tools focused on real SRE, DevOps, and Platform Engineering problems
 
-- 🔍 **FinOps Analyzer**  
-  Detect AWS cost anomalies and identify optimization opportunities
+- 📡 **[observability-prometheus-grafana](https://github.com/marcossabatino/observability-prometheus-grafana)**  
+  Production-grade observability stack on EKS with Prometheus, Grafana, and distributed tracing via Tempo
 
-- 📊 **Datadog Dashboard Generator**  
-  Automatically create golden dashboards for services
+- 🏗️ **[terraform-sre-platform](https://github.com/marcossabatino/terraform-sre-platform)**  
+  Terraform modules to provision a complete SRE platform on AWS (EKS, Datadog, SLOs, CI/CD, security)
 
-- 🚨 **Alert Noise Detector**  
-  Reduce alert fatigue by identifying duplicate and low-value alerts
+- 📊 **[slo-toolkit](https://github.com/marcossabatino/slo-toolkit)**  
+  Polyglot library (Go + Python) for calculating SLOs, SLIs, and error budgets from Prometheus or Datadog
 
-- ⚙️ **Kubernetes Health Checker**  
-  Identify misconfigurations and reliability risks in clusters
+- 🐧 **[pe-linux](https://github.com/marcossabatino/pe-linux)**  
+  Production-grade shell scripts for Linux infrastructure operations targeting SRE and Platform Engineering
 
-- 🤖 **Runbook Assistant (AI)**  
-  Suggest incident response actions based on logs and alerts
+- ☸️ **[pe-kubernetes](https://github.com/marcossabatino/pe-kubernetes)**  
+  Kubernetes cluster auditing CLI that scans for reliability, security, and operational issues
+
+- 💰 **[pe-finops](https://github.com/marcossabatino/pe-finops)**  
+  Self-contained Bash scripts for AWS FinOps cost management and governance tasks
+
+- 🔍 **[pe-observability](https://github.com/marcossabatino/pe-observability)**  
+  Self-contained Bash scripts for Datadog observability tasks built for SRE day-to-day operations
 
 ---
 
