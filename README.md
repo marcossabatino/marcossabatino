@@ -57,7 +57,7 @@ SRE & Platform Engineering Leader focused on reliability, observability, and sca
 ## 🧰 Tech Stack
 
 - **Cloud:** AWS, Kubernetes (EKS)
-- **Observability:** Datadog, Prometheus
+- **Observability:** Datadog, Prometheus, Grafana, Dynatrace
 - **Infrastructure as Code:** Terraform, GitHub Actions
 - **Languages:** Python, Bash
 - **Focus:** SRE, Platform Engineering, FinOps, AI for Operations
