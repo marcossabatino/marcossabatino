@@ -8,6 +8,9 @@ SRE & Platform Engineering Leader focused on reliability, observability, and sca
 
 ## 🚀 What I do
 
+- Design and develop infrastructure automation using Ansible (Playbooks, roles, and workflows)
+- Automate operational tasks such as provisioning, configuration management, and system maintenance
+- Build reusable automation frameworks across Linux and cloud environments (AWS)
 - Improve system reliability and reduce incidents using SRE practices
 - Build observability-driven platforms with Datadog (APM, logs, metrics, profiling)
 - Optimize cloud costs using FinOps principles
